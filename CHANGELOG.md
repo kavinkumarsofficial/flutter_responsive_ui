@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.0
+
+- Updated GitHub repository URL to correct location
+- Improved package documentation and metadata
+- Enhanced compatibility for pub.dev release
+
 ## 0.1.0
 
 - Initial release of `responsive_flutter_ui`.
