@@ -10,7 +10,7 @@
 - Width-based device classification with configurable breakpoints
 - Web and desktop resize support
 - Safe-area aware sizing
-- `ResponsiveBuilder`, `ResponsiveContainer`, `ResponsiveGrid`, `ResponsiveValue`, `ResponsiveTokens`, and `ResponsiveCircle`
+- `ResponsiveBuilder`, `ResponsiveContainer`, `ResponsiveGrid`, `ResponsiveValue`, `ResponsiveSizes`, and `ResponsiveCircle`
 
 ## Supported platforms
 

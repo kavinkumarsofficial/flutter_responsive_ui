@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.3.0
+
+- **BREAKING CHANGE**: Renamed `ResponsiveTokens` to `ResponsiveSizes` to be more intuitive for Flutter developers. Also renamed its abbreviations to full explicit names (`extraSmall`, `small`, `medium`, `large`, `extraLarge`).
+
 ## 0.2.0
 
 - Updated GitHub repository URL to correct location

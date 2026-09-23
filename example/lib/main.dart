@@ -37,7 +37,7 @@ class ResponsiveDiagnosticScreen extends StatelessWidget {
       ),
       body: SafeArea(
         child: SingleChildScrollView(
-          padding: EdgeInsets.all(ResponsiveTokens.md),
+          padding: EdgeInsets.all(ResponsiveSizes.medium),
           child: Center(
             child: ResponsiveContainer(
               maxWidth: 1200,

@@ -17,5 +17,5 @@ part 'src/responsive_builder.dart';
 part 'src/responsive_container.dart';
 part 'src/responsive_grid.dart';
 part 'src/responsive_value.dart';
-part 'src/responsive_tokens.dart';
+part 'src/responsive_sizes.dart';
 part 'src/responsive_circle.dart';

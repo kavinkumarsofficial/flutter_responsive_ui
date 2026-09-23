@@ -1,6 +1,6 @@
 name: responsive_flutter_ui
 description: A production-ready responsive UI package for Flutter with bounded scaling, adaptive layouts, and web/desktop resize support.
-version: 0.2.0
+version: 0.3.0
 homepage: https://github.com/kavinkumarsofficial/flutter_responsive_ui
 repository: https://github.com/kavinkumarsofficial/flutter_responsive_ui.git
 issue_tracker: https://github.com/kavinkumarsofficial/flutter_responsive_ui/issues

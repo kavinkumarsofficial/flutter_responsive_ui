@@ -1,23 +1,23 @@
 part of 'package:responsive_flutter_ui/responsive_flutter_ui.dart';
 
 /// Optional spacing, typography, and radius tokens.
-class ResponsiveTokens {
-  ResponsiveTokens._();
+class ResponsiveSizes {
+  ResponsiveSizes._();
 
   /// Extra-small spacing.
-  static double get xs => 4.w;
+  static double get extraSmall => 4.w;
 
   /// Small spacing.
-  static double get sm => 8.w;
+  static double get small => 8.w;
 
   /// Medium spacing.
-  static double get md => 16.w;
+  static double get medium => 16.w;
 
   /// Large spacing.
-  static double get lg => 24.w;
+  static double get large => 24.w;
 
   /// Extra-large spacing.
-  static double get xl => 32.w;
+  static double get extraLarge => 32.w;
 
   /// Title text size.
   static double get title => 24.sp;
